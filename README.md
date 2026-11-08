@@ -4,10 +4,12 @@
 
 ![Awesome Virtual Machine Backup Banner](assets/banner.svg)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Virtual-Machine-Vmware-Hyper-V-Backup/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Virtual-Machine-Vmware-Hyper-V-Backup)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 A comprehensive, SEO-optimized, and curated guide to top **Virtual Machine (VM) Backup**, **Disaster Recovery (BCDR)**, and snapshot protection solutions for **VMware vSphere / ESXi** and **Microsoft Hyper-V** environments. Includes SaaS enterprise platforms, entry pricing tiers, exact free tier / trial terms, corporate valuations, and top open-source projects ranked by GitHub stars.
 
@@ -25,6 +27,8 @@ A comprehensive, SEO-optimized, and curated guide to top **Virtual Machine (VM) 
 - [⚖️ Feature Matrix & Architecture Comparison](#️-feature-matrix--architecture-comparison)
 - [🔍 Key Evaluation Criteria for VM Backup](#-key-evaluation-criteria-for-vm-backup)
 - [🤝 Contributing](#-contributing)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [📄 License](#-license)
 
 ---
@@ -172,6 +176,23 @@ Contributions, software submissions, and updates are welcomed!
 - Found another active open-source VM backup utility? Submit a pull request with details following our formatting guidelines.
 - Please verify the project has active commits within the past 12 months.
 - When adding commercial tools, ensure accurate starting prices, free tier terms, and valuation statistics are cited.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring and utilizing this curated directory! Maintaining high-quality, up-to-date benchmarks and architectural resources for the community takes continuous effort.
+
+If you find this repository helpful:
+- ⭐ **Star** this repository on GitHub to help others discover it.
+- 🍴 **Fork** and contribute tools, updates, or architecture guides.
+- 📢 **Share** it with your fellow sysadmins, DevOps engineers, and cloud architects.
+- ☕ **Buy a coffee & sponsor:** Support continuous maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Virtual-Machine-Vmware-Hyper-V-Backup&type=date&legend=top-left)](https://www.star-history.com/#isaandutta2007/Awesome-Virtual-Machine-Vmware-Hyper-V-Backup&type=date&legend=top-left)
 
 ---
 
