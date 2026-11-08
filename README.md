@@ -11,7 +11,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Virtual-Machine-Vmware-Hyper-V-Backup)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-A comprehensive, SEO-optimized, and curated guide to top **Virtual Machine (VM) Backup**, **Disaster Recovery (BCDR)**, and snapshot protection solutions for **VMware vSphere / ESXi** and **Microsoft Hyper-V** environments. Includes SaaS enterprise platforms, entry pricing tiers, exact free tier / trial terms, corporate valuations, and top open-source projects ranked by GitHub stars.
+A comprehensive, SEO-optimized, and curated guide to top **Virtual Machine (VM) Backup**, **Disaster Recovery (BCDR)**, and snapshot protection solutions for **VMware vSphere / ESXi** and **Microsoft Hyper-V** environments. Includes SaaS enterprise platforms, entry pricing tiers, exact free tier / trial terms, corporate valuations, and top open-source projects ranked by GitHub_Stars.
 
 🌟 **Star this repository if you find it helpful for architecting your virtualization backup strategy!** 🌟
 
@@ -64,9 +64,9 @@ Below is the definitive index of SaaS, hybrid cloud, and hosted commercial Virtu
 
 ## 🔓 Open-Source Virtual Machine Backup Software
 
-The open-source ecosystem for native VMware and Hyper-V hypervisor snapshotting requires robust change-block APIs (VADP/CBT and RCT). Below are the top open-source virtual machine backup tools and disaster recovery engines, **ranked in descending order by GitHub Stars ⭐**.
+The open-source ecosystem for native VMware and Hyper-V hypervisor snapshotting requires robust change-block APIs (VADP/CBT and RCT). Below are the top open-source virtual machine backup tools and disaster recovery engines, **ranked in descending order by GitHub_Stars ⭐**.
 
-*Note: The star badges link directly to each project's stargazers community page.*
+*Note: The Stars_Badges link directly to each project's stargazers community page.*
 
 ### 1. [bup](https://github.com/bup/bup) [![Stars](https://img.shields.io/github/stars/bup/bup?style=social&color=white)](https://github.com/bup/bup/stargazers)
 * **GitHub Repository:** [`bup/bup`](https://github.com/bup/bup)
